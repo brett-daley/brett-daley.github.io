@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brett-daley.github.io/sitemap.txt

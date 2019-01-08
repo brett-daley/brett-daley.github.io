@@ -1,0 +1,8 @@
+title: Brett Daley's Homepage
+description: Computer scientist and engineer with interests in AI, machine learning, electronics, and entrepreneurship.
+url: https://brett-daley.github.io
+logo: /assets/images/portrait-1662x1162.jpg
+lang: en_US
+
+plugins:
+    - jekyll-seo-tag
