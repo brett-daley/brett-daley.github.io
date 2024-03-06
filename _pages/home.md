@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a computing science PhD student at the University of Alberta working with
+I am a computing science PhD candidate at the University of Alberta working with
 [Marlos C. Machado](https://webdocs.cs.ualberta.ca/~machado/)
 and
 [Martha White](https://webdocs.cs.ualberta.ca/~whitem/).
