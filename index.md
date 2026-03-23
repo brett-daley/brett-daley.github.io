@@ -3,10 +3,10 @@
 <img src="images/brett-daley-portrait-200px.jpg" alt="Brett Daley" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 
 <!-- Go to https://github.com/inttter/md-badges for a list of common badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brett.daley@ualberta.ca)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brettdaley)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/brett-daley)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=PP2_bZ8AAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/brett-daley)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brettdaley)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brett.daley@ualberta.ca)
 
 I am a computing science PhD candidate at the University of Alberta working with
 [Marlos C. Machado](https://webdocs.cs.ualberta.ca/~machado/)
