@@ -11,13 +11,13 @@
 I am a research scientist at Meta,
 where I work on **reinforcement learning** and **large language models**.
 
-I received my PhD in Computing Science from the University of Alberta (:canada:),
+I received my PhD in Computing Science from the University of Alberta&nbsp;(&#8288;:canada:&#8288;),
 advised by [Marlos C. Machado](https://webdocs.cs.ualberta.ca/~machado/) and [Martha White](https://webdocs.cs.ualberta.ca/~whitem/).
 My thesis was titled ["Multistep Credit Assignment in Deep Reinforcement Learning"](https://ualberta.scholaris.ca/server/api/core/bitstreams/6c70c318-9a0c-4eb5-8c6e-51a560477e5b/content).
 During my PhD, I completed internships at Meta and Sony AI.
 
-Previously, I earned my MS in Computer Science and BS in Electrical/Computer Engineering from Northeastern University (:us:),
-and my MMS in Global Affairs from Tsinghua University (:cn:) as a Schwarzman Scholar.
+Previously, I earned my MS in Computer Science and BS in Electrical/Computer Engineering from Northeastern University&nbsp;(&#8288;:us:&#8288;),
+and my MMS in Global Affairs from Schwarzman College, Tsinghua University&nbsp;(&#8288;:cn:&#8288;).
 During my undergraduate studies, I completed internships at Tesla and SpaceX,
 which ignited my initial career interest in AI.
 
