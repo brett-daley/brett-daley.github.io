@@ -21,6 +21,14 @@ and my MMS in Global Affairs from Schwarzman College, Tsinghua University&nbsp;(
 During my undergraduate studies, I completed internships at Tesla and SpaceX,
 which ignited my initial career interest in AI.
 
+## Awards
+
+- **PhD Outstanding Thesis Award in Computing Science**, *University of Alberta* (2025)
+- [**Outstanding Paper Award on the Theory of Reinforcement Learning**](https://rl-conference.cc/2025/RLC2025Awards.html), *RLC* (2025)
+- [**Best Reviewer Award**](https://x.com/icmlconf/status/1815647580577059312), *ICML* (2024)
+- [**Best Paper Award Finalist**](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/awards.pdf), *AAMAS* (2021)
+- [**Schwarzman Scholarship**](https://www.schwarzmanscholars.org/scholars/?y=2019), *Tsinghua University* (2018)
+
 ## Research Interests
 
 My research has focused on the temporal credit-assignment problem and efficient reward-based learning.
