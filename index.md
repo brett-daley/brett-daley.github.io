@@ -1,6 +1,6 @@
 # About Me
 
-<img src="images/brett-daley-portrait-200px.jpg" alt="Brett Daley - Machine Learning Research Scientist" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+![Brett Daley - Machine Learning Research Scientist]({{ '/assets/images/brett-daley-portrait-400px.jpg' | relative_url }}){: style="float: right; margin-left: 20px; margin-bottom: 20px; width: 200px; border-radius: 50%; object-fit: cover;"}
 
 <!-- Go to https://github.com/inttter/md-badges for a list of common badges -->
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=PP2_bZ8AAAAJ)
