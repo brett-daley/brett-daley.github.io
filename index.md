@@ -22,7 +22,8 @@ I interned at Tesla and SpaceX in 2016-2017, which ignited my initial career int
 
 ## Awards
 
-- **PhD Outstanding Thesis Award in Computing Science**, *University of Alberta* (2025)
+- **Outstanding PhD Thesis Award in Computing Science**, *University of Alberta* (2026)
+- **Gold Reviewer Award**, *ICML* (2026)
 - [**Outstanding Paper Award on the Theory of Reinforcement Learning**](https://rl-conference.cc/2025/RLC2025Awards.html), *RLC* (2025)
 - [**Best Reviewer Award**](https://x.com/icmlconf/status/1815647580577059312), *ICML* (2024)
 - [**Best Paper Award Finalist**](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/awards.pdf), *AAMAS* (2021)
