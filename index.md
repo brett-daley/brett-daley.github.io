@@ -36,8 +36,6 @@ I am particularly interested in addressing high-dimensional environments where c
 To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
 which present a variety of challenges to long-term credit assignment.
 
-See my [Google Scholar profile](https://scholar.google.com/citations?user=PP2_bZ8AAAAJ) for a list of my publications.
-
 ---
 
 <p style="text-align: center; font-size: 0.8em; color: #767676;">&copy; 2018-{{ site.time | date: '%Y' }} Brett Daley. All Rights Reserved.</p>
