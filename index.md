@@ -1,4 +1,4 @@
-![Portrait of Brett Daley]({{ '/assets/images/brett-daley-portrait-400px.jpg' | relative_url }}){: style="float: right; margin-left: 20px; margin-bottom: 20px; width: 200px; border-radius: 50%; object-fit: cover;"}
+![Portrait of Brett Daley]({{ '/assets/images/brett-daley-portrait-400px.jpg' | relative_url }}){: .portrait width="200" height="200"}
 
 <!-- Go to https://github.com/inttter/md-badges for a list of common badges -->
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=PP2_bZ8AAAAJ)
@@ -36,4 +36,4 @@ which present a variety of challenges to long-term credit assignment.
 
 ---
 
-<p style="text-align: center; font-size: 0.8em; color: #767676;">&copy; 2018-{{ site.time | date: '%Y' }} Brett Daley. All Rights Reserved.</p>
+<p class="copyright">&copy; 2018-{{ site.time | date: '%Y' }} Brett Daley. All Rights Reserved.</p>

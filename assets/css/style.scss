@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.portrait {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin: 0 0 20px 20px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 0.8em;
+  color: #767676;
+}
