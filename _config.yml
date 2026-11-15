@@ -1,7 +1,7 @@
 title: Brett Daley
 description: Research Scientist
 url: https://brettdaley.ai
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-seo-tag
   - jemoji
