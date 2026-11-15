@@ -33,7 +33,3 @@ My research has focused on the temporal credit-assignment problem and efficient 
 I am particularly interested in addressing high-dimensional environments where classical methods become infeasible.
 To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
 which present a variety of challenges to long-term credit assignment.
-
----
-
-<p class="copyright">&copy; 2018-{{ site.time | date: '%Y' }} Brett Daley. All Rights Reserved.</p>
