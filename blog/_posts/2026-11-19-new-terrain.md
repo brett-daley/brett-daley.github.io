@@ -45,7 +45,7 @@ Instead of picking ideological sides, let us stay *radically open-minded*.
 Let us combine the best elements of our known algorithms in our common pursuit of real AI.[^1]
 We still have a lot of work to do.
 
-To conclude this post, let me properly set expectations for the new blog.
+To conclude this post, I want to properly set expectations for the new blog.
 Time is always scarce.
 If I can write one or two interesting posts per year, this project will be a success.
 
