@@ -1,6 +1,12 @@
 ---
 ---
 
+// 4.53:1 on minima's #fdfdfd background, meeting WCAG AA for small text;
+// light and dark are pinned to the values minima derives from its #828282.
+$grey-color: #757575;
+$grey-color-light: #e8e8e8;
+$grey-color-dark: #424242;
+
 @import "minima";
 
 .portrait {
@@ -15,5 +21,25 @@
 .copyright {
   text-align: center;
   font-size: 0.8em;
-  color: #767676;
+  color: $grey-color;
+}
+
+.rss-subscribe {
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin-bottom: 30px;
+  padding-bottom: $spacing-unit;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.post-header hr {
+  border: 0;
+  border-top: 1px solid $grey-color-light;
+  margin-top: $spacing-unit;
+}
+
+.post-content .footnotes {
+  border-top: 1px solid $grey-color-light;
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit;
 }

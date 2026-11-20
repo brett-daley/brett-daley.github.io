@@ -2,7 +2,10 @@ title: Brett Daley
 description: Research Scientist
 url: https://brettdaley.ai
 theme: minima
+permalink: /blog/:year/:title/
 plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-sitemap
+minima:
+  date_format: "%B %-d, %Y"
