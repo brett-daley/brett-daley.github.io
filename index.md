@@ -21,6 +21,13 @@ Previously, I earned my MS in Computer Science and BS in Electrical/Computer Eng
 and my MMS in Global Affairs from Schwarzman College, Tsinghua University&nbsp;(&#8288;:cn:&#8288;).
 I interned at Tesla and SpaceX in 2016-2017, which ignited my initial career interest in AI.
 
+## Research Interests
+
+My research has focused on the temporal credit-assignment problem and efficient reward-based learning.
+I am particularly interested in addressing high-dimensional environments where classical methods become infeasible.
+To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
+which present a variety of challenges to long-term credit assignment.
+
 ## Awards
 
 - **Outstanding PhD Thesis Award in Computing Science** (*University of Alberta*, 2026)
@@ -29,10 +36,3 @@ I interned at Tesla and SpaceX in 2016-2017, which ignited my initial career int
 - [**Best Reviewer Award**](https://x.com/icmlconf/status/1815647580577059312) (*ICML*, 2024)
 - [**Best Paper Award Finalist**](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/awards.pdf) (*AAMAS*, 2021)
 - [**Schwarzman Scholarship**](https://www.schwarzmanscholars.org/scholars/?y=2019) (*Tsinghua University*, 2018)
-
-## Research Interests
-
-My research has focused on the temporal credit-assignment problem and efficient reward-based learning.
-I am particularly interested in addressing high-dimensional environments where classical methods become infeasible.
-To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
-which present a variety of challenges to long-term credit assignment.
