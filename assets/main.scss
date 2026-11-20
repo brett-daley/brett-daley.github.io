@@ -38,6 +38,10 @@ $grey-color-dark: #424242;
   margin-top: $spacing-unit;
 }
 
+.post-views {
+  white-space: nowrap;
+}
+
 .post-content .footnotes {
   border-top: 1px solid $grey-color-light;
   margin-top: $spacing-unit;
