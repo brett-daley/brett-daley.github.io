@@ -10,7 +10,7 @@ layout: default
 [![Email]({{ '/assets/images/badges/email.svg' | relative_url }})](mailto:brett@brettdaley.ai)
 
 I'm a research scientist at Meta.
-I work on **reinforcement learning** and **large language models**.
+I work on **LLM evaluation**, **agents**, and **reinforcement learning**.
 
 I received my PhD in Computing Science from the University of <span class="nowrap">Alberta :canada:,</span>
 advised by [Marlos C. Machado](https://webdocs.cs.ualberta.ca/~machado/) and [Martha White](https://webdocs.cs.ualberta.ca/~whitem/).
@@ -19,11 +19,10 @@ I interned at Meta and Sony AI during my PhD.
 
 Previously, I earned my MS in Computer Science and BS in Electrical/Computer Engineering from Northeastern <span class="nowrap">University :us:,</span>
 and my MMS in Global Affairs from Schwarzman College, Tsinghua <span class="nowrap">University :cn:.</span>
-I interned at Tesla and SpaceX in 2016-2017, which ignited my initial career interest in AI.
 
 ## Research Interests
 
-My research has focused on the temporal credit-assignment problem and efficient reward-based learning.
+My PhD research focused on the temporal credit-assignment problem and efficient reward-based learning.
 I am particularly interested in addressing high-dimensional environments where classical methods become infeasible.
 To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
 which present a variety of challenges to long-term credit assignment.
