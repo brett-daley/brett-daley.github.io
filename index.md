@@ -28,11 +28,8 @@ I am particularly interested in addressing high-dimensional environments where c
 To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
 which present a variety of challenges to long-term credit assignment.
 
-## Awards
+## Selected Awards
 
-- **Outstanding PhD Thesis Award in Computing Science** (*University of Alberta*, 2026)
-- **Gold Reviewer Award** (*ICML*, 2026)
+- [**Outstanding PhD Thesis Award in Computing Science**](https://www.linkedin.com/posts/brettdaley_reinforcementlearning-machinelearning-deeplearning-share-7475142955222261762-sT4M/) (*University of Alberta*, 2025)
 - [**Outstanding Paper Award on the Theory of Reinforcement Learning**](https://rl-conference.cc/2025/RLC2025Awards.html) (*RLC*, 2025)
-- [**Best Reviewer Award**](https://x.com/icmlconf/status/1815647580577059312) (*ICML*, 2024)
 - [**Best Paper Award Finalist**](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/awards.pdf) (*AAMAS*, 2021)
-- [**Schwarzman Scholarship**](https://www.schwarzmanscholars.org/scholars/?y=2019) (*Tsinghua University*, 2018)
