@@ -1,5 +1,6 @@
 title: Brett Daley
-description: Research Scientist
+description: "Research Scientist at Meta. LLM evaluation, agents, and reinforcement learning."
+tagline: Research Scientist at Meta
 url: https://brettdaley.ai
 theme: minima
 permalink: /blog/:year/:title/
@@ -9,3 +10,11 @@ plugins:
   - jekyll-sitemap
 minima:
   date_format: "%B %-d, %Y"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/social-card.png
+        width: 1200
+        height: 630
