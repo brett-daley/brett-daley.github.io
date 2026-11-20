@@ -58,7 +58,7 @@ Some potential topics:
 - My personal philosophies on AI, research, and software engineering.
 - My experience in industry vs. academia.
 - Accessible breakdowns of research papers—especially my own.
-- Deep-dive tutorials on niche research topics: e.g., TD learning, multistep returns, eligibility traces, value-function operators.
+- Deep-dive tutorials on niche research topics: e.g., temporal-difference learning, multistep returns, eligibility traces, value-function operators.
 
 Of course, the most important thing to me is writing content that people find useful.
 If you have requests, I would love to hear them!
