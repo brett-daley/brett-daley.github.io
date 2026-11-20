@@ -7,7 +7,7 @@ layout: default
 [![Google Scholar]({{ '/assets/images/badges/google-scholar.svg' | relative_url }})](https://scholar.google.com/citations?user=PP2_bZ8AAAAJ)
 [![GitHub]({{ '/assets/images/badges/github.svg' | relative_url }})](https://github.com/brett-daley)
 [![LinkedIn]({{ '/assets/images/badges/linkedin.svg' | relative_url }})](https://www.linkedin.com/in/brettdaley)
-[![Gmail]({{ '/assets/images/badges/gmail.svg' | relative_url }})](mailto:brett.daley@ualberta.ca)
+[![Email]({{ '/assets/images/badges/email.svg' | relative_url }})](mailto:brett@brettdaley.ai)
 
 I'm a research scientist at Meta.
 I work on **reinforcement learning** and **large language models**.
