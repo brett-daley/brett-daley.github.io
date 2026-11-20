@@ -18,7 +18,10 @@ layout: default
     <script>
       // count.js records the canonical path, not location.pathname.
       // GoatCounter answers 404 for a path with no recorded visits yet.
-      fetch('https://brettdaley.goatcounter.com/counter/' + encodeURIComponent({{ page.url | relative_url | jsonify }}) + '.json')
+      // Its server cache can keep that 404 indefinitely, and it ignores unknown
+      // query parameters, so a daily-changing end date gives a fresh key each day.
+      // Two days ahead keeps today's views in range whatever the timezone.
+      fetch('https://brettdaley.goatcounter.com/counter/' + encodeURIComponent({{ page.url | relative_url | jsonify }}) + '.json?end=' + new Date(Date.now() + 2 * 864e5).toISOString().slice(0, 10))
         .then(function (r) {
           if (r.status === 404) return { count: '0' };
           if (!r.ok) throw new Error(r.status);
