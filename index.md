@@ -9,16 +9,16 @@ layout: default
 [![LinkedIn]({{ '/assets/images/badges/linkedin.svg' | relative_url }})](https://www.linkedin.com/in/brettdaley)
 [![Email]({{ '/assets/images/badges/email.svg' | relative_url }})](mailto:brett@brettdaley.ai)
 
-I'm a research scientist at Meta.
+I am a research scientist at Meta.
 I work on **LLM evaluation**, **agents**, and **reinforcement learning**.
 
 I received my PhD in Computing Science from the University of <span class="nowrap">Alberta :canada:,</span>
 advised by [Marlos C. Machado](https://webdocs.cs.ualberta.ca/~machado/) and [Martha White](https://webdocs.cs.ualberta.ca/~whitem/).
 My award-winning thesis was titled ["Multistep Credit Assignment in Deep Reinforcement Learning"](https://ualberta.scholaris.ca/server/api/core/bitstreams/6c70c318-9a0c-4eb5-8c6e-51a560477e5b/content).
-I interned at Meta and Sony AI during my PhD.
+I interned at Sony AI during my PhD.
 
-Previously, I earned my MS in Computer Science and BS in Electrical/Computer Engineering from Northeastern <span class="nowrap">University :us:,</span>
-and my MMS in Global Affairs from Schwarzman College, Tsinghua <span class="nowrap">University :cn:.</span>
+Previously, I earned my MS in Computer Science and BS in Electrical and Computer Engineering from Northeastern <span class="nowrap">University :us:,</span>
+and my MMS in Global Affairs from Tsinghua <span class="nowrap">University :cn:</span> as a Schwarzman Scholar.
 
 ## Research Interests
 
