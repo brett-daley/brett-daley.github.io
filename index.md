@@ -22,10 +22,17 @@ and my MMS in Global Affairs from Schwarzman College, Tsinghua <span class="nowr
 
 ## Research Interests
 
-My PhD research focused on the temporal credit-assignment problem and efficient reward-based learning.
-I am particularly interested in addressing high-dimensional environments where classical methods become infeasible.
-To this end, my algorithms have often utilized deep neural networks to process rich sensory data,
-which present a variety of challenges to long-term credit assignment.
+I am broadly motivated by understanding the computational principles behind general intelligence and by developing AI agents that improve autonomously from their own feedback.
+
+At Meta, I work on the [Ads ABTest Agent](https://arxiv.org/abs/2611.04515) team, researching LLM-as-a-Judge evals and related techniques for optimizing agentic systems.
+My PhD at the University of Alberta focused on the temporal credit-assignment problem in deep reinforcement learning.
+The two threads are connected: in both, a learning target (e.g., a rubric or a return estimate) must be defined and then optimized against to elicit a desired agent behavior.
+Doing this in an objective, principled way is key to unlocking real performance gains.
+
+A shortcoming of today’s AI systems is that expert knowledge must invariably be supplied, which creates a scaling bottleneck.
+General AI ought to be able to determine what is true from its own observations and incorporate new knowledge without destroying its memories, just as humans and animals do effortlessly.
+This capability touches on deep questions in epistemology, psychology, and neuroscience that remain underexplored in machine learning.
+Achieving it will likely require rethinking the foundations of modern learning algorithms, but the payoff would be enormous.
 
 ## Selected Awards
 
