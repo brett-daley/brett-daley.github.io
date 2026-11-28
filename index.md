@@ -36,6 +36,7 @@ Achieving it will likely require rethinking the foundations of modern learning a
 
 ## Selected Awards
 
+- [**Best Paper Award Runner-Up**](https://alaworkshop2026.github.io/#awards) (*ALA Workshop at AAMAS*, 2026)
 - [**Outstanding PhD Thesis Award in Computing Science**](https://www.linkedin.com/posts/brettdaley_reinforcementlearning-machinelearning-deeplearning-share-7475142955222261762-sT4M/) (*University of Alberta*, 2025)
 - [**Outstanding Paper Award on the Theory of Reinforcement Learning**](https://rl-conference.cc/2025/RLC2025Awards.html) (*RLC*, 2025)
 - [**Best Paper Award Finalist**](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/awards.pdf) (*AAMAS*, 2021)
